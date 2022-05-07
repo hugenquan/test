@@ -3,8 +3,4 @@ ffss
 456798989
 45678
 2222
-<<<<<<< Updated upstream
-777
-=======
-66666
->>>>>>> Stashed changes
+666
